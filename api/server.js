@@ -19,7 +19,7 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
-    '/Tbl_MovieList/:id': '/Tbl_MovieList?MovieId=:id',
+    '/Tbl_MovieList/:id': '/Tbl_MovieList/MovieId=:id',
 }))
 server.use(router)
 server.listen(3000, () => {
