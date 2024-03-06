@@ -53,847 +53,847 @@
   ],
   "Tbl_CinemaRoom": [
     {
-      "RoomId": 1,
+      "id": 1,
       "CinemaId": 1,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 2,
+      "id": 2,
       "CinemaId": 1,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 3,
+      "id": 3,
       "CinemaId": 1,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 4,
+      "id": 4,
       "CinemaId": 1,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 5,
+      "id": 5,
       "CinemaId": 1,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 6,
+      "id": 6,
       "CinemaId": 1,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 7,
+      "id": 7,
       "CinemaId": 1,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 8,
+      "id": 8,
       "CinemaId": 1,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 9,
+      "id": 9,
       "CinemaId": 1,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 10,
+      "id": 10,
       "CinemaId": 1,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 11,
+      "id": 11,
       "CinemaId": 1,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 12,
+      "id": 12,
       "CinemaId": 2,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 13,
+      "id": 13,
       "CinemaId": 2,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 14,
+      "id": 14,
       "CinemaId": 2,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 15,
+      "id": 15,
       "CinemaId": 2,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 16,
+      "id": 16,
       "CinemaId": 2,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 17,
+      "id": 17,
       "CinemaId": 2,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 18,
+      "id": 18,
       "CinemaId": 2,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 19,
+      "id": 19,
       "CinemaId": 2,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 20,
+      "id": 20,
       "CinemaId": 2,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 21,
+      "id": 21,
       "CinemaId": 2,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 22,
+      "id": 22,
       "CinemaId": 2,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 23,
+      "id": 23,
       "CinemaId": 3,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 24,
+      "id": 24,
       "CinemaId": 3,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 25,
+      "id": 25,
       "CinemaId": 3,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 26,
+      "id": 26,
       "CinemaId": 3,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 27,
+      "id": 27,
       "CinemaId": 3,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 28,
+      "id": 28,
       "CinemaId": 3,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 29,
+      "id": 29,
       "CinemaId": 3,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 30,
+      "id": 30,
       "CinemaId": 3,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 31,
+      "id": 31,
       "CinemaId": 3,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 32,
+      "id": 32,
       "CinemaId": 3,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 33,
+      "id": 33,
       "CinemaId": 3,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 34,
+      "id": 34,
       "CinemaId": 4,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 35,
+      "id": 35,
       "CinemaId": 4,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 36,
+      "id": 36,
       "CinemaId": 4,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 37,
+      "id": 37,
       "CinemaId": 4,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 38,
+      "id": 38,
       "CinemaId": 4,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 39,
+      "id": 39,
       "CinemaId": 4,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 40,
+      "id": 40,
       "CinemaId": 4,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 41,
+      "id": 41,
       "CinemaId": 4,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 42,
+      "id": 42,
       "CinemaId": 4,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 43,
+      "id": 43,
       "CinemaId": 4,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 44,
+      "id": 44,
       "CinemaId": 4,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 45,
+      "id": 45,
       "CinemaId": 5,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 46,
+      "id": 46,
       "CinemaId": 5,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 47,
+      "id": 47,
       "CinemaId": 5,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 48,
+      "id": 48,
       "CinemaId": 5,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 49,
+      "id": 49,
       "CinemaId": 5,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 50,
+      "id": 50,
       "CinemaId": 5,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 51,
+      "id": 51,
       "CinemaId": 5,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 52,
+      "id": 52,
       "CinemaId": 5,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 53,
+      "id": 53,
       "CinemaId": 5,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 54,
+      "id": 54,
       "CinemaId": 5,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 55,
+      "id": 55,
       "CinemaId": 5,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 56,
+      "id": 56,
       "CinemaId": 6,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 57,
+      "id": 57,
       "CinemaId": 6,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 58,
+      "id": 58,
       "CinemaId": 6,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 59,
+      "id": 59,
       "CinemaId": 6,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 60,
+      "id": 60,
       "CinemaId": 6,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 61,
+      "id": 61,
       "CinemaId": 6,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 62,
+      "id": 62,
       "CinemaId": 6,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 63,
+      "id": 63,
       "CinemaId": 6,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 64,
+      "id": 64,
       "CinemaId": 6,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 65,
+      "id": 65,
       "CinemaId": 6,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 66,
+      "id": 66,
       "CinemaId": 6,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 67,
+      "id": 67,
       "CinemaId": 7,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 68,
+      "id": 68,
       "CinemaId": 7,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 69,
+      "id": 69,
       "CinemaId": 7,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 70,
+      "id": 70,
       "CinemaId": 7,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 71,
+      "id": 71,
       "CinemaId": 7,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 72,
+      "id": 72,
       "CinemaId": 7,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 73,
+      "id": 73,
       "CinemaId": 7,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 74,
+      "id": 74,
       "CinemaId": 7,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 75,
+      "id": 75,
       "CinemaId": 7,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 76,
+      "id": 76,
       "CinemaId": 7,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 77,
+      "id": 77,
       "CinemaId": 7,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 78,
+      "id": 78,
       "CinemaId": 8,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 79,
+      "id": 79,
       "CinemaId": 8,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 80,
+      "id": 80,
       "CinemaId": 8,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 81,
+      "id": 81,
       "CinemaId": 8,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 82,
+      "id": 82,
       "CinemaId": 8,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 83,
+      "id": 83,
       "CinemaId": 8,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 84,
+      "id": 84,
       "CinemaId": 8,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 85,
+      "id": 85,
       "CinemaId": 8,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 86,
+      "id": 86,
       "CinemaId": 8,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 87,
+      "id": 87,
       "CinemaId": 8,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 88,
+      "id": 88,
       "CinemaId": 8,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 89,
+      "id": 89,
       "CinemaId": 9,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 90,
+      "id": 90,
       "CinemaId": 9,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 91,
+      "id": 91,
       "CinemaId": 9,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 92,
+      "id": 92,
       "CinemaId": 9,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 93,
+      "id": 93,
       "CinemaId": 9,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 94,
+      "id": 94,
       "CinemaId": 9,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 95,
+      "id": 95,
       "CinemaId": 9,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 96,
+      "id": 96,
       "CinemaId": 9,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 97,
+      "id": 97,
       "CinemaId": 9,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 98,
+      "id": 98,
       "CinemaId": 9,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 99,
+      "id": 99,
       "CinemaId": 9,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 100,
+      "id": 100,
       "CinemaId": 10,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 101,
+      "id": 101,
       "CinemaId": 10,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 102,
+      "id": 102,
       "CinemaId": 10,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 103,
+      "id": 103,
       "CinemaId": 10,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 104,
+      "id": 104,
       "CinemaId": 10,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 105,
+      "id": 105,
       "CinemaId": 10,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 106,
+      "id": 106,
       "CinemaId": 10,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 107,
+      "id": 107,
       "CinemaId": 10,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 108,
+      "id": 108,
       "CinemaId": 10,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 109,
+      "id": 109,
       "CinemaId": 10,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 110,
+      "id": 110,
       "CinemaId": 10,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 111,
+      "id": 111,
       "CinemaId": 11,
       "RoomNumber": 1,
       "RoomName": "Cinema Ι",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 112,
+      "id": 112,
       "CinemaId": 11,
       "RoomNumber": 2,
       "RoomName": "Cinema ΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 113,
+      "id": 113,
       "CinemaId": 11,
       "RoomNumber": 3,
       "RoomName": "Cinema ΙΙΙ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 114,
+      "id": 114,
       "CinemaId": 11,
       "RoomNumber": 4,
       "RoomName": "Cinema ΙV",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 115,
+      "id": 115,
       "CinemaId": 11,
       "RoomNumber": 5,
       "RoomName": "Cinema V",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 116,
+      "id": 116,
       "CinemaId": 11,
       "RoomNumber": 6,
       "RoomName": "Cinema VI",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 117,
+      "id": 117,
       "CinemaId": 11,
       "RoomNumber": 7,
       "RoomName": "Cinema VII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 118,
+      "id": 118,
       "CinemaId": 11,
       "RoomNumber": 8,
       "RoomName": "Cinema VIII",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 119,
+      "id": 119,
       "CinemaId": 11,
       "RoomNumber": 9,
       "RoomName": "Cinema IX",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 120,
+      "id": 120,
       "CinemaId": 11,
       "RoomNumber": 10,
       "RoomName": "Cinema Χ",
       "SeatingCapacity": 0
     },
     {
-      "RoomId": 121,
+      "id": 121,
       "CinemaId": 11,
       "RoomNumber": 11,
       "RoomName": "Cinema ΧΙ",
